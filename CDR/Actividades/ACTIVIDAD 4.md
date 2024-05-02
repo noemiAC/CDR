@@ -1,4 +1,7 @@
-## Actividad 4: Configuración inicial de un Switch
+**## Actividad 4: Configuración inicial de  un Switch**
+
+![Captura desde 2024-05-02 06-26-39](https://github.com/noemiAC/CDR/assets/168385917/aadaa46c-7b27-4e11-afe4-4bc6b44ec9ce)
+
 
 ![Captura desde 2024-05-02 06-02-48](https://github.com/noemiAC/CDR/assets/168385917/6e61a217-75d8-427b-b62a-8bd9d56a2144)
 
@@ -11,7 +14,7 @@ Cuenta con 24 fast de Ethernet
 
 **b) ¿Cuántas interfaces Gigabit Ethernet tiene el switch?**
 
-Cuenta con 2 nterfaces Gigabit 
+Cuenta con 2 nterfaces GigabitEthernet 0/1 y GigabitEthernet 0/2
 
 **c) ¿Cuál es el rango de valores que se muestra para las líneas vty?**
 
