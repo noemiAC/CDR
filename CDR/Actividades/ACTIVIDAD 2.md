@@ -1,4 +1,6 @@
-## Actividad 2: Implementación de una conectividad básica
+## Actividad 2: Implementación de una conectivida![Captura desde 2024-05-02 02-55-16](https://github.com/noemiAC/CDR/assets/168385917/f3f3656a-b58d-4c7a-9686-29b01570d597)
+
+
 ![Captura desde 2024-05-02 02-24-46](https://github.com/noemiAC/CDR/assets/168385917/194f65bf-834d-4268-94d5-b00112b52c36)
 ![Captura desde 2024-05-02 02-26-04](https://github.com/noemiAC/CDR/assets/168385917/005bf004-7f53-4b0d-be1a-cd9da6fc8145)
 
