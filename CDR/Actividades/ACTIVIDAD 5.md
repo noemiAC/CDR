@@ -45,9 +45,8 @@ No
 No
 13. **Cada vez que se enviaba la PDU entre las redes 10 y 172, había un punto donde las direcciones MAC cambiaban repentinamente. ¿Dónde ocurrió eso?**
 Ocurrió en el router
-14. **¿Qué dispositivo usa direcciones MAC que comienzan con 00D0: BA?**
-El router
-![Dirección MAC](imagen1.jpg)
+14. **¿Qué dispositivo usa direcciones MAC  que comienzan con 00D0: BA?** El router
+ ![imagen1](https://github.com/noemiAC/CDR/assets/168385917/5e0f62d6-7adf-4889-9a46-a5e8dd3b54e7)
 
 15. **¿A qué dispositivos pertenecían las otras direcciones MAC?**
     
@@ -87,3 +86,4 @@ Sí, al seguir la respuesta a un ping, se puede observar el cambio de envío y r
  </p>
 
 [VIDEO DE LA ACTIVIDAD](https://drive.google.com/file/d/1Tlcle0xfso9_v0IXUv7ozB1l3iiOEh-A/view?usp=sharing)
+
