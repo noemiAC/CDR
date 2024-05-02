@@ -35,6 +35,30 @@ Este comando se requiere para habilitar la contraseña que se cambio, en este ca
 se muestra la siiguiente contraseña![Captura desde 2024-05-02 04-48-11](https://github.com/noemiAC/CDR/assets/168385917/ea47c36f-42b0-4b32-b4da-f3b327d53963)
 
 
+**¿Por qué la contraseña de enable secret se ve diferente de lo que se configuró?**
+Porque se guardo en modo enable Exec privilegiado
+
+despues de diapo 4
+**¿Cuándo se muestra este aviso?**
+
+En este caso la configuración del aviso MOTD dice "This is a secure system. Authorized Access Only!", lo que nos indica que este sistema está destinado solo para usuarios autorizados y el acceso no autorizado está prohibido.
+
+**¿Por qué todos los switches deben tener un aviso de MOTD?**
+Configurar un aviso de MOTD  a todos los switches proporciona seguridad y protección acerca de la red. Asimismo también ayuda un entorno  seguridad y cumpir con las políticas establecidas.
+
+**¿Cuál es la versión abreviada más corta del comando copy running-config
+startup-config?Examine el archivo de configuración de inicio.¿Qué comando muestra el contenido
+de la NVRAM?**
+copy run start
+
+**¿Todos los cambios realizados están grabados en el archivo?**
+Guarda solo los cambios realizados en la configuraci+on actual
+
+
+
+
+
+
 
 
 
