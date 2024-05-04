@@ -15,6 +15,12 @@
 
 
 
+
+
+
+
+
+
 ## Parte 2: Configurar los dispositivos y verificar la conectividad
 
 
